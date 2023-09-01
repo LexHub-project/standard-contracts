@@ -8,6 +8,7 @@ issue and more the goals of the document.
 ## List of existing initiatives
 - [Bonterms](https://bonterms.com/)
 - [OneNDA](https://onenda.org/)
+- [Creative Commons Licenses](https://creativecommons.org/licenses/)
 
 ## You have a Standard Document and it's not in the list?
 Please [reach out](mailto:oswald+standarddocuments@lexhub.co)! We'd be more than happy to add it.
